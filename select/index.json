@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Lost One's Weeping",
+  "base_artist": "Neru",
+  "createdAt": "2025-12-02T03:31:16.759135Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lost One's Weeping - Piano Edition",
+      "artist": "Jubyphonic",
+      "has_synced": false,
+      "path": "select/01_Lost_One's_Weeping_-_Piano_Edition_Jubyphonic.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lost One's Weeping - Piano Edition",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/02_Lost_One's_Weeping_-_Piano_Edition_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lost One's Weeping [Piano Outtake] (English Cover)",
+      "artist": "JubyPhonic",
+      "has_synced": false,
+      "path": "select/03_Lost_One's_Weeping_[Piano_Outtake]_(English_Cover)_JubyPhonic.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lost One's Weeping",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/04_Lost_One's_Weeping_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Neru - ロストワンの号哭(Lost One's Weeping) feat. Kagamine Rin",
+      "artist": "Neru",
+      "has_synced": false,
+      "path": "select/05_Neru_-_ロストワンの号哭(Lost_One's_Weeping)_feat._Kagamine_Rin_Neru.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "[FULL VER] Leo/need ロストワンの号哭 (Lost One's Weeping) 歌詞 Color Coded Lyrics プロセカ",
+      "artist": "_zui_",
+      "has_synced": false,
+      "path": "select/06_[FULL_VER]_Leo_need_ロストワンの号哭_(Lost_One's_Weeping)_歌詞_Color_Coded_Lyrics_プロセカ_zui.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lost One's Weeping - Cover",
+      "artist": "Soraru",
+      "has_synced": true,
+      "path": "select/07_Lost_One's_Weeping_-_Cover_Soraru.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lost One's Weeping",
+      "artist": "JubyPhonic",
+      "has_synced": false,
+      "path": "select/08_Lost_One's_Weeping_JubyPhonic.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Lost One's Weeping",
+      "artist": "Velo S",
+      "has_synced": false,
+      "path": "select/09_The_Lost_One's_Weeping_Velo_S.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lost One's Weeping",
+      "artist": "Rishie-P",
+      "has_synced": false,
+      "path": "select/10_Lost_One's_Weeping_Rishie-P.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ロストワンの号哭 - Lost One's Weeping (feat. 星乃一歌&日野森志歩&鏡音リン & 鏡音リン)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/11_ロストワンの号哭_-_Lost_One's_Weeping_(feat._星乃一歌&日野森志歩&鏡音リン_&_鏡音リン)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lost One's Weeping (yorukichi)",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/12_Lost_One's_Weeping_(yorukichi)_Various.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lost One's Weeping (JubyPhonic)",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/13_Lost_One's_Weeping_(JubyPhonic)_Various.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ロストワンの号哭 (Lost One's Weeping)",
+      "artist": "EXIT TUNES",
+      "has_synced": false,
+      "path": "select/14_ロストワンの号哭_(Lost_One's_Weeping)_EXIT_TUNES.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lost One's Weeping",
+      "artist": "Touyu",
+      "has_synced": true,
+      "path": "select/15_Lost_One's_Weeping_Touyu.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lost One's Weeping",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/16_Lost_One's_Weeping_Mafumafu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロストワンの号哭",
+      "artist": "Neru",
+      "has_synced": false,
+      "path": "select/pl_01_ロストワンの号哭_Neru.txt"
+    }
+  ]
+}
